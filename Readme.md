@@ -1,3 +1,6 @@
+React Tutorial for Beginners
+https://youtu.be/SqcY0GlETPk?si=XtzcJEcdpo0x9ayS
+
 create new app
 npm create vite@4.1.0
 
